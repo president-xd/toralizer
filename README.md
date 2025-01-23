@@ -4,7 +4,7 @@ Toralizer is a compact tool written in C that facilitates anonymous web browsing
 ## Features
 ```bash
 1. Lightweight C written code
-2. Simple
+2. Simply written using SOCKS4
 3. Secure request using TOR Proxy Server
 4. Upcoming: hostname resolution for additional flexibility
 ```
